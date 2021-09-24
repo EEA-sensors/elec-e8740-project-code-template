@@ -86,4 +86,4 @@ The IMU log files column are, the Timestamp in ms, first input from 0-1 as a per
 Line Sensor has to be calibrated when its tried in a different material for every first time once its calibrated for the black line not necessary for following events. To calibrate it for the black line click the calibration button once and while the LEDs blink robot should be waved like the arrow showed in the following picture. Make sure all five sensors are exposed to both regions ( black and white ). The mode indicator lighting in the module stands for inverse detected region power on. Make sure the mode indicator is off for whole operation.
 
 ### Maintainer
-Muhammad.Emzir@aalto.fi
+syeda.s.hassan@aalto.fi
