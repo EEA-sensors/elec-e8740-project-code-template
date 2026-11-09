@@ -1,0 +1,6 @@
+data/
+figures/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.vscode/
